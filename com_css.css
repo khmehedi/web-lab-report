@@ -1,0 +1,151 @@
+*{margin: 0; padding: 0;}
+header{
+	background:#ddd;
+	padding: 10px 20px;
+}
+nav{
+	overflow: hidden;
+}
+.logo{
+	float: left;
+	width: 25%;
+}
+.menu{
+	float: right;
+	width: 65%;
+}
+nav ul {
+	list-style-type: none;
+}
+nav ul li{
+	display: inline-block;
+	font-size: 16px;
+}
+nav ul li a{
+	font-size: 20px;
+	display: inline-block;
+	padding :10px;
+	text-decoration: none;
+	color: #000;
+}
+nav ul li a:hover{
+	text-decoration: underline;
+	color: #4e4e6d;
+}
+.bio{
+	display: inline-block;
+	background: #eee;
+	padding: 40px;
+}
+.bio h2{
+	font-size: 36px;
+	color: #443333;
+}
+.bio p{
+	font-size: 20px;
+	color: #634040;
+}
+.bio-tab{
+	font-size: 20px;
+}
+.mehr{
+	width: 200px;
+	margin: 0 auto;
+	background:#000;
+	height: 2px;
+}
+.abt-des table tr td{
+	padding-left: 10px;
+}
+.title{
+	font-size: 40px;
+	text-decoration: underline;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+#about{
+	overflow: hidden;
+	background: #90acd38a;
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+}
+#about p{
+	font-size: 20px;
+}
+#about p span{
+	margin-left:30px; 
+}
+.merkN{
+	padding: 3px;
+	font-size: 22px;
+	font-weight: bold;
+}
+.abt-img{
+	text-align: right;
+	float: left;
+	width: 40%;
+}
+.abt-des{
+	float: right;
+	padding: 20px;
+	width: 50%;
+	text-align: left;
+}
+.bdy img{
+	margin-bottom: 15px;
+	display: block;
+}
+#edu table{
+	background:#de8a8abd;
+	border-collapse: collapse;
+}
+#edu table tr{
+	border-bottom: 1px solid #000;
+	padding: 10px;
+}
+#edu table tr td{
+	padding: 20px;
+}
+#edu table thead tr td{
+	font-weight: bold;
+}
+section h1{
+	text-decoration: underline;
+}
+#skil{
+	padding: 30px 0;
+	background: #90acd38a;
+}
+.skil-point{
+	display: block;
+	width: 300px;
+	margin: 0 auto;
+}
+#skil ul{
+	list-style-type: circle !important;
+	font-size: 20px;
+	margin: 0 auto;
+}
+#cont p{
+	font-size: 20px;
+	padding-bottom: 5px;
+}
+footer{
+	background: #ccc;
+	padding: 10px;
+	font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
